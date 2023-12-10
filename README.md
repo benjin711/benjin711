@@ -15,7 +15,7 @@ Please check out my website.
 ![C](/assets/c.svg)
 ![SQL](/assets/mysql.svg)
 ![Matlab](/assets/matlab.svg)
-![Linux](/assets/linux.svg)
+![Linux](/assets/linux.png)
 ![Docker](/assets/docker.svg)
 ![ROS](/assets/ros2.png)
 ![PyTorch](/assets/pytorch.svg)
