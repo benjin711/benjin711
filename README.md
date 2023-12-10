@@ -13,7 +13,7 @@ Please check out my website.
 ![Python](/assets/python.svg)
 ![C++](/assets/cpp.svg)
 ![C](/assets/c.svg)
-![SQL](/assets/sql.svg)
+![SQL](/assets/mysql.svg)
 ![Matlab](/assets/matlab.svg)
 ![Linux](/assets/linux.svg)
 ![Docker](/assets/docker.svg)
