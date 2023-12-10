@@ -10,13 +10,13 @@ Please check out my website.
 - 🎃 As part of the Machine Learning for Autonomous Driving course, my buddy Jordi and I experimented with the DeepLabV3 multitask network to maximize monocular depth estimation and semantic segmentation performance [multitask_learning](https://github.com/benjin711/multitask_learning).
 
 ### My Skills
-![Python]()
-![C++]()
-![C]()
-![SQL]()
-![Matlab]()
-![Linux]()
-![Docker]()
-![ROS]()
-![PyTorch]()
-![Pytorch Lightning]()
+![Python](/assets/python.png)
+![C++](/assets/cpp.png)
+![C](/assets/c.png)
+![SQL](/assets/sql.png)
+![Matlab](/assets/matlab.png)
+![Linux](/assets/linux.png)
+![Docker](/assets/docker.png)
+![ROS](/assets/ros.png)
+![PyTorch](/assets/pytorch.png)
+![Pytorch Lightning](/assets/lightning.png)
