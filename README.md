@@ -1,4 +1,4 @@
-# Hi, I am Ben, a machine learning and robotics engineer.
+# Hi, I am Ben, an ML and Robotics Engineer.
 ### About Me
 Please check out my website.
 
