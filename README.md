@@ -1,6 +1,6 @@
 # Hi, I am Ben, a Machine Learning and Robotics Engineer.
 ### About Me
-Check out my website.
+I am enthusiastic about machine learning, autonomous robotics, and machine learning applied to autonomous robotics. You can check out my resume on my [website](https://benjin711.github.io/).
 
 ### Projects
 - 🔭 Currently, I am working mostly on my [C2L](https://github.com/benjin711/C2L) repository. I am trying to modify the [LoFTR](https://zju3dv.github.io/loftr/) architecture to do visual localization in lidar point clouds.
